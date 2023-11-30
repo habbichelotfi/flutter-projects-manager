@@ -20,12 +20,12 @@ Flutter Project Manager is a desktop application designed to simplify the manage
 1. Clone the repository:
 
 ```
-git clone [https://github.com/habbichelotfi/flutter-projects-manager]
+git clone https://github.com/habbichelotfi/flutter-projects-manager
 ```
 
 2. Navigate to the project directory:
 ```
-cd flutter-project-manager
+cd flutter-projects-manager
 ```
 
 ## Usage
